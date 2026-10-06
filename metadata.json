@@ -1,0 +1,7 @@
+{
+  "name": "Banda El Shaday — Portal de Louvor",
+  "description": "Portal particular da Banda El Shaday: hinos da semana, playlist de louvores e aniversários dos integrantes.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
